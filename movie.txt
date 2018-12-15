@@ -1,6 +1,6 @@
 name= xAXN url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13528.m3u8" logo= "https://images.mypadtv.com/axn.jpg" 
 
-name= HBO CHINESE url= "http://218.202.220.2:5000/nn_live.ts?id=HBO" logo= ""
+name= HBO CHINESE url= "http://218.202.220.2:5000/nn_live.ts?id=HBO" logo= " "
 
 name= FOX MOVIES HD url= "http://58.186.112.234:8889/udp/225.1.2.238:30120" logo= "https://images.mypadtv.com/foxmovies.jpg" 
 
