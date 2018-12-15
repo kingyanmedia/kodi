@@ -1,0 +1,33 @@
+name= xAXN url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13528.m3u8" logo= "https://images.mypadtv.com/axn.jpg" 
+
+name= HBO CHINESE url= "http://218.202.220.2:5000/nn_live.ts?id=HBO" logo= ""
+
+name= FOX MOVIES HD url= "http://58.186.112.234:8889/udp/225.1.2.238:30120" logo= "https://images.mypadtv.com/foxmovies.jpg" 
+
+name= xFOX ACTION MOVIE url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13522.m3u8" logo= "https://images.mypadtv.com/foxaction.jpg" 
+
+name= FOX HD url= "http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8" logo= "https://images.mypadtv.com/foxhd.jpg" 
+
+name= FX HD url= "http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8" logo= "https://images.mypadtv.com/fxhd.jpg" 
+
+name= SONY MOV url= "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8" logo= "https://images.mypadtv.com/one.jpg" 
+
+name= xSONY PIX url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13529.m3u8" logo= "https://images.mypadtv.com/sonypix.jpg" 
+
+name= xSONY LE PLEX url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13547.m3u8" logo= "http://s1044.photobucket.com/albums/b447/Amachongz/sony%20le%20plex_zpsqx4cn8ue.png" 
+
+name= xBOO url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13550.m3u8" logo= "https://images.mypadtv.com/boo.jpg" 
+
+name= xHGTV url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13551.m3u8" logo= "https://images.mypadtv.com/hgtv.jpg" 
+
+name= HBO2 url= "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8" logo= "http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png" 
+
+name= HBO Chinese url= "http://218.202.220.2:5000/nn_live.ts?id=HBO" logo= "http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png" 
+
+name= &FLIX HD url= "http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8" logo= "https://images.mypadtv.com/zstudio.jpg" 
+
+name= &FLIX url= "http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8" logo= "https://images.mypadtv.com/zstudio.jpg" 
+
+name= &PRIVE HD url= "https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8" logo= "http://akamai.vidz.zeecdn.com/esselnewsletter/images/article1le-05d790fe632520e.jpg" 
+
+name= PARAMOUNT CHANNEL url= "http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8"/Level(1677721)?start=LIVE&end=END" logo= "https://musor.tv/images/paramount_channel.png" 

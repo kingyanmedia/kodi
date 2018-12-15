@@ -1,0 +1,17 @@
+name= ADI TV url= "http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8" logo= ""
+
+name= ASWAJA TV url= "http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8" logo= ""
+
+name= BERITA SATU NEWS url= "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8" logo= ""
+
+name= METRO TV url= "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8" logo= "http://s1044.photobucket.com/albums/b447/Amachongz/20100705132940New_MetroTV_Logo_and_Slogan_2010_zpsfjosyo6s.png"
+
+name= NET.HD url= "http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8" logo= "http://s1044.photobucket.com/albums/b447/Amachongz/9155ec2a7a045f218d4611616177a1_zpszwicoym4.png"
+
+name= TVRI3 url= "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8" logo= ""
+
+name= JAKARTA GLOBEL url= "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8" logo= ""
+
+name= BERITA SATU WORLD url= "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8" logo= ""
+
+name= CNN INDONESIA url= "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u"

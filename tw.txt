@@ -1,0 +1,57 @@
+﻿name= 壹新闻 url= "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8" logo= ""
+
+name= TVBS新闻台 url= "http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8" logo= ""
+
+name= 球电视台 url= "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8" logo= ""
+
+name= 靖天卡通 url= "http://61.58.60.230:9000/live/207.m3u8" logo= ""
+
+name= 靖洋卡通 url= "http://61.58.60.230:9000/live/206.m3u8" logo= ""
+
+name= 靖天欢乐台 url= "http://61.58.60.230:9000/live/201.m3u8" logo= ""
+
+name= 靖洋戏剧台 url= "http://61.58.60.230:9000/live/203.m3u8" logo= ""
+
+name= 靖天资讯台 url= "http://61.58.60.230:9000/live/202.m3u8" logo= ""
+
+name= 靖天育乐台 url= "http://61.58.60.230:9000/live/204.m3u8" logo= ""
+
+name= 靖天国际台 url= "http://61.58.60.230:9000/live/205.m3u8" logo= ""
+
+name= 幸福空間居家 url= "http://61.58.60.230:9000/live/125.m3u8" logo= ""
+
+name= 大爱一 url= "http://61.58.60.230:9000/live/10.m3u8" logo= ""
+
+name= 大爱二 url= "http://61.58.60.230:9000/live/191.m3u8" logo= ""
+
+name= 耀才财经 url= "http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8" logo= ""
+
+name= 点掌财经 url= "http://cclive2.aniu.tv/live/anzb.m3u8" logo= ""
+
+name= 台灣壹新聞 url= "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8" logo= ""
+
+name= 华视咨询 url= "http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8" logo= ""
+
+name= 台视新闻 url= "http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8" logo= ""
+
+name= 亚洲旅游 url= "http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8" logo= ""
+
+name= 中旺电视 url= "http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8" logo= ""
+
+name= 民视新闻 url= "http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8" logo= ""
+
+name= 非凡新闻 url= "http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8" logo= ""
+
+name= 大爱电视 url= "http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8" logo= ""
+
+name= 新闻综合 url= "http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8" logo= ""
+
+name= 台湾超视 url= "http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8" logo= ""
+
+name= 东森美洲 url= "http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8" logo= ""
+
+name= 台湾美食 url= "http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8" logo= ""
+
+name= 三立台湾 url= "http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8" logo= ""
+
+name= 600 新闻 url= "http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8" logo= ""

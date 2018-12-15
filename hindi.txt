@@ -1,0 +1,9 @@
+name= &PICTURES HD url= "https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8" logo= "http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" 
+
+name= ZEE CINEMA url= "https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8" logo= "https://i.imgur.com/RcQaQOn.png" 
+
+name= ZEE CLASSIC url= "http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8" logo= "http://www.afaqs.com/all/news/images/news_story_grfx/2018/01/52117/Zee-Telugu.jpg" 
+
+name= ZEE CAFE url= "https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8" logo= "http://www.indiantelevision.com/sites/default/files/images/tv-images/2015/11/19/Untitled-1.jpg" 
+
+name= ZEE MAGIC url= "https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8" logo= "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_tv_marathi_hd.jpg" 

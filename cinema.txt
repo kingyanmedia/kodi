@@ -1,0 +1,27 @@
+name= HALL 1 url= "http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8" logo= ""
+
+name= HALL 2 url= "http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8" logo= ""
+
+name= HALL 3 url= "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8" logo= ""
+
+name= HALL 4 url= "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8" logo= ""
+
+name= HALL 5 url= "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8" logo= ""
+
+name= HALL 6 url= "http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8" logo= ""
+
+name= HALL 7 url= "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8" logo= ""
+
+name= HALL 8 url= "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8" logo= ""
+
+name= HALL 9 url= "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8" logo= ""
+
+name= HALL 10 url= "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8" logo= ""
+
+name= HALL 11 url= "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8" logo= ""
+
+name= HALL 12 url= "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8" logo= ""
+
+name= HALL 13 url= "http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8" logo= ""
+
+name= HALL 14 url= "http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8" logo= ""

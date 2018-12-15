@@ -1,0 +1,3 @@
+name= NHK WORLD SD url= "http://iptv.didanurwanda.com/channel/live/nhk-world.m3u8" logo= ""
+
+name= NHK WORLD HD url= "http://iptv.didanurwanda.com/channel/live/nhk-world-hd.m3u8" logo= ""

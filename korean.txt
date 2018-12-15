@@ -1,0 +1,19 @@
+name= xtvN url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13549.m3u8" logo= "" logo= "https://images.mypadtv.com/tvn_hd.jpg" 
+
+name= CBS TV url= "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8" logo= "" logo= "http://www.guambusinessmagazine.com/wp-content/uploads/2017/07/CBS_logo.svg.jpg" 
+
+name= ARIRANG url= "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8" logo= "" logo= "http://static-cdn1.ustream.tv/i/channel/picture/1/3/4/2/13420854/13420854_ustream_logo_1373590863,640x360,b:1.jpg" 
+
+name= M-NET url= "http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8" logo= "" logo= "https://mybroadband.co.za/news/wp-content/uploads/2016/01/M-net-Mnet-logo.jpg" 
+
+name= TV CHOSUN url= "http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8" logo= "" logo= "https://pbs.twimg.com/profile_images/1618517849/TVChosun_400x400.jpg" 
+
+name= M-NET url= "https://stream-04.sv6.dailymotion.com/dm/3/x4kzk1v/live-3.m3u8" logo= "" logo= "http://s1044.photobucket.com/albums/b447/Amachongz/mnet_zps4rxswpao.png" 
+
+name= ALL THE K-POP url= "https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8" logo= ""
+
+name= EBS-E url= "http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8" logo= ""
+
+name= EBS-2 url= "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8" logo= ""
+
+name= EBS-1 url= "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8" logo= ""

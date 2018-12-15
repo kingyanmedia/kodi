@@ -1,0 +1,27 @@
+name= SONY TEN 1 url= "http://163.172.86.57:3135/Ten/1/index.m3u8" logo= "https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png" 
+
+name= SONY TEN 2 url= "http://163.172.86.57:3135/Ten/2/index.m3u8" logo= "https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png" 
+
+name= SONY TEN 3 url= "http://163.172.86.57:3135/Ten/3/index.m3u8" logo= "https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png" 
+
+name= Fox Sports HD url= "http://58.186.112.234:8889/udp/225.1.2.228:30120" logo= "https://images.mypadtv.com/foxsport1.jpg"
+
+name= Fox Sports 2 url= "http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8" logo= "https://images.mypadtv.com/foxsport2.jpg"
+
+name= Fox Sports 3 url= "http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355&.m3u8" logo= "https://images.mypadtv.com/foxsport3.jpg"
+
+name= TW ELEVEN sports2 url= "http://61.58.60.230:9000/live/102.m3u8" logo= "https://images.mypadtv.com/L-iHE5-8fqKKOA2FJv66Uw.jpg" 
+
+name= WWE url= "http://liveal.quanmin.tv/live/2115620138.flv" logo= "https://images.mypadtv.com/wwe.jpg" 
+
+name= Golf Taiwan url= "http://50.7.73.90:8278/golf_twn/playlist.m3u8"?tid=11310661&tsum=9925953c9de2c3a0ccc272819928b877" logo= "" 
+
+name= ESPN url= "http://80.80.160.168/live/6/2500000/live.m3u8" logo= "" 
+
+name= xASSP1 FHD url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13513.m3u8" logo= "https://images.mypadtv.com/astro_supersport1.jpg" 
+
+name= xASSP2 FHD url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13518.m3u8" logo= "https://images.mypadtv.com/astro_supersport2.jpg" 
+
+name= xASSP3 FHD url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13507.m3u8" logo= "https://images.mypadtv.com/astro_supersport3.jpg" 
+
+name= xASSP4 FHD url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13519.m3u8" logo= "https://images.mypadtv.com/astro_supersport4.jpg" 
