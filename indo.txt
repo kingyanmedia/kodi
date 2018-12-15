@@ -1,4 +1,4 @@
-name= ADI TV url= "http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8" logo= ""
+name= ADI TV url= "http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8"
 
 name= ASWAJA TV url= "http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8" logo= ""
 
