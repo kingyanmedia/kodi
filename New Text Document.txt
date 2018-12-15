@@ -1,0 +1,750 @@
+
+logo= "https://images.mypadtv.com/axn.jpg", group-title="MOVIE",xAXN
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13528.m3u8"
+
+logo= "" group-title="MOVIE",HBO CHINESE
+url= "http://218.202.220.2:5000/nn_live.ts?id=HBO"
+
+logo= "https://images.mypadtv.com/foxmovies.jpg", group-title="MOVIE",FOX MOVIES HD
+url= "http://58.186.112.234:8889/udp/225.1.2.238:30120"
+
+logo= "https://images.mypadtv.com/foxaction.jpg", group-title="MOVIE",xFOX ACTION MOVIE
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13522.m3u8"
+
+logo= "https://images.mypadtv.com/foxhd.jpg", group-title="MOVIE",FOX HD
+url= "http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8"
+
+logo= "https://images.mypadtv.com/fxhd.jpg", group-title="MOVIE",FX HD
+url= "http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8"
+
+logo= "https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONY MOV
+url= "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8"
+
+logo= "https://images.mypadtv.com/sonypix.jpg", group-title="MOVIE",xSONY PIX
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13529.m3u8"
+
+logo= "http://s1044.photobucket.com/albums/b447/Amachongz/sony%20le%20plex_zpsqx4cn8ue.png", group-title="MOVIE",xSONY LE PLEX
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13547.m3u8"
+
+logo= "https://images.mypadtv.com/boo.jpg", group-title="MOVIE",xBOO
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13550.m3u8"
+
+logo= "https://images.mypadtv.com/hgtv.jpg", group-title="MOVIE",xHGTV
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13551.m3u8"
+
+logo= "http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png", group-title="MOVIE",HBO2
+url= "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8"
+
+logo= "http://www.vector-logo.net/logo_preview/eps/h/HBO_2.png", group-title="MOVIE",HBO Chinese
+url= "http://218.202.220.2:5000/nn_live.ts?id=HBO"
+
+logo= "https://images.mypadtv.com/zstudio.jpg", group-title="MOVIE",&FLIX HD
+url= "http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8"
+
+logo= "https://images.mypadtv.com/zstudio.jpg", group-title="MOVIE",&FLIX
+url= "http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8"
+
+logo= "http://akamai.vidz.zeecdn.com/esselnewsletter/images/article1le-05d790fe632520e.jpg", group-title="MOVIE",&PRIVE HD
+url= "https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8"
+
+logo= "https://musor.tv/images/paramount_channel.png", group-title="MOVIE",PARAMOUNT CHANNEL
+url= "http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8"/Level(1677721)?start=LIVE&end=END"
+
+logo= "https://images.mypadtv.com/astro_supersport1.jpg", group-title="SPORTS",xASSP1 FHD
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13513.m3u8"
+
+logo= "https://images.mypadtv.com/astro_supersport2.jpg", group-title="SPORTS",xASSP2 FHD
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13518.m3u8"
+
+logo= "https://images.mypadtv.com/astro_supersport3.jpg", group-title="SPORTS",xASSP3 FHD
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13507.m3u8"
+
+logo= "https://images.mypadtv.com/astro_supersport4.jpg", group-title="SPORTS",xASSP4 FHD
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13519.m3u8"
+
+logo= "https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 1
+url= "http://163.172.86.57:3135/Ten/1/index.m3u8"
+
+logo= "https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 2
+url= "http://163.172.86.57:3135/Ten/2/index.m3u8"
+
+logo= "https://actcnow.com/wp-content/uploads/2018/07/Sony-Ten-1-HD.png", group-title="SPORTS",SONY TEN 3
+url= "http://163.172.86.57:3135/Ten/3/index.m3u8"
+
+logo= "https://images.mypadtv.com/foxsport1.jpg', group-title="SPORTS",Fox Sports HD
+url= "http://58.186.112.234:8889/udp/225.1.2.228:30120"
+
+logo= "https://images.mypadtv.com/foxsport2.jpg', group-title="SPORTS",Fox Sports 2
+url= "http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8"
+
+logo= "https://images.mypadtv.com/foxsport3.jpg', group-title="SPORTS",Fox Sports 3
+url= "http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355&.m3u8"
+
+logo= "https://images.mypadtv.com/L-iHE5-8fqKKOA2FJv66Uw.jpg", group-title="SPORTS",TW ELEVEN sports2
+url= "http://61.58.60.230:9000/live/102.m3u8"
+
+logo= "https://images.mypadtv.com/wwe.jpg", group-title="SPORTS",WWE
+url= "http://liveal.quanmin.tv/live/2115620138.flv"
+
+logo= "" group-title="SPORTS",Golf Taiwan
+url= "http://50.7.73.90:8278/golf_twn/playlist.m3u8"?tid=11310661&tsum=9925953c9de2c3a0ccc272819928b877"
+
+logo= "" group-title="SPORTS",ESPN
+url= "http://80.80.160.168/live/6/2500000/live.m3u8"
+
+logo= "https://images.mypadtv.com/tvn_hd.jpg", group-title="KOREAN",xtvN
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13549.m3u8"
+
+logo= "http://www.guambusinessmagazine.com/wp-content/uploads/2017/07/CBS_logo.svg.jpg", group-title="KOREAN",CBS TV
+url= "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8"
+
+logo= "http://static-cdn1.ustream.tv/i/channel/picture/1/3/4/2/13420854/13420854_ustream_logo_1373590863,640x360,b:1.jpg", group-title="KOREAN",ARIRANG
+url= "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8"
+
+logo= "https://mybroadband.co.za/news/wp-content/uploads/2016/01/M-net-Mnet-logo.jpg", group-title="KOREAN",M-NET
+url= "http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8"
+
+logo= "https://pbs.twimg.com/profile_images/1618517849/TVChosun_400x400.jpg", group-title="KOREAN",TV CHOSUN
+url= "http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8"
+
+logo= "http://s1044.photobucket.com/albums/b447/Amachongz/mnet_zps4rxswpao.png", group-title="KOREAN",M-NET
+url= "https://stream-04.sv6.dailymotion.com/dm/3/x4kzk1v/live-3.m3u8"
+
+logo= "" group-title="KOREAN",ALL THE K-POP
+url= "https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8"
+
+logo= "" group-title="KOREAN",EBS-E
+url= "http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+
+logo= "" group-title="KOREAN",EBS-2
+url= "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+
+logo= "" group-title="KOREAN",EBS-1
+url= "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+
+logo= "https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5
+url= "http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8"
+
+logo= "https://images.mypadtv.com/hd5.jpg", group-title="SINGAPORE",CHANNEL 5 HD
+url= "https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_5.m3u8"
+
+logo= "https://images.mypadtv.com/hd8.jpg", group-title="SINGAPORE",CHANNEL 8
+url= "http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8"
+
+logo= "https://images.mypadtv.com/hd8.jpg", group-title="SINGAPORE",CHANNEL 8 HD
+url= "https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8"
+
+logo= "https://images.mypadtv.com/news.asia.jpg", group-title="SINGAPORE",CNN NEW ASIA HD
+url= "https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8"
+
+logo= "https://images.mypadtv.com/channelu.jpg", group-title="SINGAPORE",CNN U HD
+url= "http://103.89.176.45:8278/ChannelU/playlist.m3u8"
+
+logo= "https://images.mypadtv.com/okto.jpg", group-title="SINGAPORE",OKTO HD
+url= "https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8"
+
+logo= "https://images.mypadtv.com/suria.jpg", group-title="SINGAPORE",SURIA FHD
+url= "https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8"
+
+logo= "https://images.mypadtv.com/vasantham.jpg", group-title="SINGAPORE",VASANTHAM FH
+url= "https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8"
+
+logo= "https://images.mypadtv.com/natgeo.jpg", group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
+url= "http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w2021209028_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8"
+
+logo= "https://images.mypadtv.com/natpeople.jpg", group-title="DOCUMENTARY",NAT GEO PEOPLE	
+url= "http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/l_15696456_63199320_4324.ts?nimblesessionid=18764422"
+
+logo= "https://images.mypadtv.com/animalplanet.jpg", group-title="DOCUMENTARY",ANIMAL PLANET
+url= "http://80.80.160.168/live/1/500000/live.m3u8"
+
+logo= "https://images.mypadtv.com/discovery.jpg", group-title="DOCUMENTARY",Discovery Channel
+url= "http://58.186.112.234:8889/udp/225.1.1.238:30120"
+
+logo= "https://images.mypadtv.com/cartoon_network.jpg", group-title="CARTOON",CARTOON NETWORK
+url= "http://161.0.157.9/PLTV/88888888/224/3221226843/03.m3u8"
+
+logo= "https://images.mypadtv.com/nickelodeon.jpg", group-title="CARTOON",DISNEY JUNIOR
+url= "http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8"
+
+logo= "http://images.mi.tv/channels/sv_disney-xd-multicountry_m.png", group-title="CARTOON",DISNEY CHANNEL
+url= "http://161.0.157.6/PLTV/88888888/224/3221226299/03.m3u8"
+
+logo= "https://images.mypadtv.com/animax.jpg", group-title="CARTOON",xANIMAX
+url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13566.m3u8"
+
+logo= "http://s1044.photobucket.com/albums/b447/Amachongz/BizNet4Kids%20logo_zpsvzwt4s5g.png", group-title="CARTOON",BIZNET KIDS
+url= "http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1763834580_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8"
+
+logo= "" group-title="CARTOON",BOOMERANG
+url= "http://80.87.208.158/dna-143-tv-pc/hls/1102v2333.m3u8"
+
+logo= "http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg", group-title="HINDI",&PICTURES HD
+url= "https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8"
+
+logo= "https://i.imgur.com/RcQaQOn.png", group-title="HINDI",ZEE CINEMA
+url= "https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8"
+
+logo= "http://www.afaqs.com/all/news/images/news_story_grfx/2018/01/52117/Zee-Telugu.jpg", group-title="HINDI",ZEE CLASSIC
+url= "http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8"
+
+logo= "http://www.indiantelevision.com/sites/default/files/images/tv-images/2015/11/19/Untitled-1.jpg", group-title="HINDI",ZEE CAFE
+url= "https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8"
+
+logo= "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_tv_marathi_hd.jpg", group-title="HINDI",ZEE MAGIC
+url= "https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8"
+
+logo= "" group-title="INDONESIA",ADI TV
+url= "http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8"
+
+logo= "" group-title="INDONESIA",ASWAJA TV
+url= "http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8"
+
+logo= "" group-title="INDONESIA",BERITA SATU NEWS
+url= "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+
+logo= "http://s1044.photobucket.com/albums/b447/Amachongz/20100705132940New_MetroTV_Logo_and_Slogan_2010_zpsfjosyo6s.png", group-title="INDONESIA",METRO TV
+url= "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+
+logo= "http://s1044.photobucket.com/albums/b447/Amachongz/9155ec2a7a045f218d4611616177a1_zpszwicoym4.png", group-title="INDONESIA",NET.HD
+url= "http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8"
+
+logo= "" group-title="INDONESIA",TVRI3
+url= "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8"
+
+logo= "" group-title="INDONESIA",JAKARTA GLOBEL
+url= "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8"
+
+logo= "" group-title="INDONESIA",BERITA SATU WORLD
+url= "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8"
+
+logo= "" group-title="INDONESIA",CNN INDONESIA
+url= "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u"
+
+logo= "" group-title="NEWS",BBC World News
+url= "http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8"
+
+logo= "" group-title="NEWS",Bloomberg Quint
+url= "https://d1j33l0xltpapp.cloudfront.net/bqmain_2.m3u8"
+
+logo= "" group-title="NEWS",CNBC 18 News
+url= "https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8"
+
+logo= "" group-title="NEWS",CNN News 18 
+url= "http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8"
+
+logo= "" group-title="LEARNING",FASHION TV
+url= "http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-0.m3u8"
+
+logo= "https://images.mypadtv.com/cihd.jpg", group-title="LEARNING",CRIME INVESTIGATION FHD
+url= "http://telekomtv.ro.edgesuite.net/shls/LIVE$CrimeandInvestigation/6.m3u8"/Level(1677721)?start=LIVE&end=END"
+
+logo= "https://images.mypadtv.com/hgtv.jpg", group-title="LEARNING",HGTV
+url= "http://212.8.243.195:8278/HGTV/playlist.m3u8"?tid=14384481&tsum=cec5a62478fed4765b6b701586e20a13"
+
+logo= "http://english.amazoniafishing.com.br/wp-content/uploads/2015/02/logo-fish-tv.jpg", group-title="LEARNING",FISH CHANNEL
+url= "http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8"
+
+logo= "https://images.mypadtv.com/food.jpg", group-title="LEARNING",FOODNETWORK
+url= "http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8"/Level(1677721)?start=LIVE&end=END"
+
+logo= "https://images.mypadtv.com/history.jpg", group-title="LEARNING",HISTORY1
+url= "http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8"/Level(1677721)?start=LIVE&end=END"
+
+logo= "https://tva.onscreenasia.com/wp-content/uploads/2016/02/F1logo_E.jpg", group-title="LEARNING",HD FASHION
+url= "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"
+
+logo= "https://banner2.kisspng.com/20180327/tew/kisspng-bbc-two-logo-television-freeview-three-5aba63c919f6e3.1804809615221646811064.jpg", group-title="LEARNING",THREE
+url= "http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8"
+
+logo= "https://images.mypadtv.com/discovery.jpg", group-title="LEARNING",DISCOVERY
+url= "http://80.80.160.168/live/5/live.m3u8"
+
+logo= "https://static.filmon.com/assets/channels/21/extra_big_logo.png", group-title="LEARNING",FASHION ONE
+url= "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8"
+
+logo= "http://grihat.com/wp-content/uploads/2017/01/trt.jpg", group-title="LEARNING",TRT
+url= "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8"
+
+logo= "https://images.mypadtv.com/tlc.jpg", group-title="LEARNING",TLC
+url= "http://80.80.160.168/live/2/live.m3u8"
+
+group-title="LEARNING",Da Vinci Learning HD
+url= "http://58.186.112.234:8889/udp/225.1.2.253:30120"
+
+group-title="LEARNING",TRAVEL CHANNEL
+url= "http://80.80.160.168/live/3/500000/live.m3u8"
+
+group-title="LEARNING",PLANET GREEN
+url= "http://80.80.160.168/live/4/500000/live.m3u8"
+
+group-title="LEARNING",INVESTIGATION DISCOVERY
+url= "http://80.80.160.168/live/5/500000/live.m3u8"
+
+group-title="LEARNING",SHOWTIME
+url= "http://80.80.160.168/live/7/2500000/live.m3u8"
+
+logo= "" group-title="CINEMA",HALL 1
+url= "http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8"
+
+logo= "" group-title="CINEMA",HALL 2
+url= "http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8"
+
+logo= "" group-title="CINEMA",HALL 3
+url= "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8"
+
+logo= "" group-title="CINEMA",HALL 4
+url= "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8"
+
+logo= "" group-title="CINEMA",HALL 5
+url= "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8"
+
+logo= "" group-title="CINEMA",HALL 6
+url= "http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8"
+
+logo= "" group-title="CINEMA",HALL 7
+url= "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
+
+logo= "" group-title="CINEMA",HALL 8
+url= "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+
+logo= "" group-title="CINEMA",HALL 9
+url= "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
+
+logo= "" group-title="CINEMA",HALL 10
+url= "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+
+logo= "" group-title="CINEMA",HALL 11
+url= "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+
+logo= "" group-title="CINEMA",HALL 12
+url= "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8"
+
+logo= "" group-title="CINEMA",HALL 13
+url= "http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
+
+logo= "" group-title="CINEMA",HALL 14
+url= "http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8"
+
+logo= "http://teleon.tv/images/logos/hit-tv-es.jpg", group-title="MTV",HIT TV
+url= "http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8"
+
+logo= "https://fs.lnwfile.com/_/fs/_raw/j1/ie/3y.jpg", group-title="MTV",CMC
+url= "http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8"
+
+logo= "https://static.wixstatic.com/media/2ecd1a_06b763e0750247d7a45ab72cc235f11b~mv2.gif", group-title="MTV",THE COUNTRY NETWORK
+url= "https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8"
+
+logo= "" group-title="JAPAN",NHK WORLD SD
+url= "http://iptv.didanurwanda.com/channel/live/nhk-world.m3u8"
+
+logo= "" group-title="JAPAN",NHK WORLD HD
+url= "http://iptv.didanurwanda.com/channel/live/nhk-world-hd.m3u8"
+
+logo= "" group-title="CHINA",CCTV1HD
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226624/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV2HD
+url= "http://120.198.235.70/112.50.243.10/PLTV/88888888/224/3221225800/2.m3u8""
+
+logo= "" group-title="CHINA",CCTV4HD
+url= "http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV5HD
+url= "http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV5+
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8"
+
+logo= "" group-title="CHINA",xCCTV6HD
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226515/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV7HD
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV8HD
+url= "http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV9HD
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV10HD
+url= "http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV11
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV12HD
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV13
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV14HD
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV15
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV???
+url= "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8"
+
+logo= "" group-title="CHINA",xCCTV-????
+url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226576/1.m3u8"
+
+logo= "" group-title="CHINA",CCTV-????
+url= "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.167/PLTV/3/224/3221227191/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.142/PLTV/3/224/3221225544/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.162/PLTV/3/224/3221227208/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://112.25.77.147:8080/live/hdguangdongstv/1.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.163/PLTV/3/224/3221227246/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.153/PLTV/3/224/3221227212/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.156/PLTV/3/224/3221227258/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.140/PLTV/3/224/3221227211/index.m3u8"
+
+logo= "" group-title="CHINA",?????HD
+url= "http://223.110.243.140/PLTV/3/224/3221227252/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://weblive.hebtv.com/live/hbws_bq/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.155/PLTV/3/224/3221225634/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.157/PLTV/3/224/3221225566/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.153/PLTV/3/224/3221225536/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.146/PLTV/3/224/3221225594/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.243.140/PLTV/3/224/3221227217/index.m3u8"
+
+logo= "" group-title="CHINA",????HD
+url= "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8"
+
+logo= "" group-title="CHINA",x????
+url= "HDhttp://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8"
+
+logo= "" group-title="CHINA",?????
+url= "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.166/PLTV/3/224/3221225628/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.146/PLTV/3/224/3221225590/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225849/1.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.153/PLTV/3/224/3221225626/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.142/PLTV/3/224/3221225576/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.162/PLTV/3/224/3221225554/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.140/PLTV/3/224/3221225591/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.152/PLTV/3/224/3221225540/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225855/1.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://223.110.243.155/PLTV/3/224/3221225579/index.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://stream1.hnntv.cn/ssws/sd/live.m3u8"
+
+logo= "" group-title="CHINA",x????
+url= "http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8"
+
+logo= "" group-title="CHINA",SDETV
+url= "http://live.sdetv.com.cn/live/sdetv/playlist.m3u8"
+
+logo= "" group-title="CHINA",?????
+url= "http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8"
+
+logo= "" group-title="CHINA",?????
+url= "http://218.246.85.5:81/hls/live1.m3u8"
+
+logo= "" group-title="CHINA",??????
+url= "http://218.77.102.118:1935/live/zonghe_iphone/playlist.m3u8"
+
+logo= "" group-title="CHINA",????
+url= "http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
+
+logo= "" group-title="TAIWAN",???
+url= "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8"
+
+logo= "" group-title="TAIWAN",TVBS???
+url= "http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://61.58.60.230:9000/live/207.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://61.58.60.230:9000/live/206.m3u8"
+
+logo= "" group-title="TAIWAN",?????
+url= "http://61.58.60.230:9000/live/201.m3u8"
+
+logo= "" group-title="TAIWAN",?????
+url= "http://61.58.60.230:9000/live/203.m3u8"
+
+logo= "" group-title="TAIWAN",?????
+url= "http://61.58.60.230:9000/live/202.m3u8"
+
+logo= "" group-title="TAIWAN",?????
+url= "http://61.58.60.230:9000/live/204.m3u8"
+
+logo= "" group-title="TAIWAN",?????
+url= "http://61.58.60.230:9000/live/205.m3u8"
+
+logo= "" group-title="TAIWAN",??????
+url= "http://61.58.60.230:9000/live/125.m3u8"
+
+logo= "" group-title="TAIWAN",???
+url= "http://61.58.60.230:9000/live/10.m3u8"
+
+logo= "" group-title="TAIWAN",???
+url= "http://61.58.60.230:9000/live/191.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://cclive2.aniu.tv/live/anzb.m3u8"
+
+logo= "" group-title="TAIWAN",?????
+url= "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8"
+
+logo= "" group-title="TAIWAN",????
+url= "http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8"
+
+logo= "" group-title="TAIWAN",600 ??
+url= "http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8"
+
+group-title="HK",????
+url= "http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+
+group-title="HK",????
+url= "http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8"
+
+group-title="HK",????
+url= "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+
+group-title="HK",???????
+url= "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
+
+group-title="HK",???????
+url= "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8"
+
+group-title="HK",????HD
+url= "http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8"
+
+group-title="HK",????HD
+url= "http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8"
+
+group-title="HK",????HD
+url= "http://223.110.243.155:80/PLTV/3/224/3221226975/index.m3u8"
+
+group-title="HK",????
+url= "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
+
+group-title="HK",????
+url= "http://media.fantv.hk/m3u8"/archive/channel2_stream1.m3u8"
+
+group-title="HK",????
+url= "http://media.fantv.hk/m3u8"/archive/channel2.m3u8"
+
+group-title="HK",TVB?????
+url= "http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil"
+
+group-title="HK",TVB?????
+url= "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8"
+
+group-title="HK",?????
+url= "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225877/1.m3u8"
+
+group-title="NEWTV",NEWTV??
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225895/1.m3u8"
+
+group-title="NEWTV",NEWTV?????FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225806/1.m3u8"
+
+group-title="NEWTV",NEWTV????FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225804/1.m3u8"
+
+group-title="NEWTV",NEWTV????FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225803/1.m3u8"
+
+group-title="NEWTV",NEWTV????FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225801/1.m3u8"
+
+group-title="NEWTV",NEWTV??
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225894/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225878/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225879/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225880/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225881/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225882/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225883/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225884/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225885/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225889/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225891/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225888/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225886/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225887/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225890/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225893/1.m3u8"
+
+group-title="NEWTV",NEWTV????
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226107/1.m3u8"
+
+group-title="NEWTV",BESTV????FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226642/1.m3u8"
+
+group-title="NEWTV",BESTV????FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226646/1.m3u8"
+
+group-title="NEWTV",BESTV??FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226560/1.m3u8"
+
+group-title="NEWTV",BESTV??FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226564/1.m3u8"
+
+group-title="NEWTV",BESTV??FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226565/1.m3u8"
+
+group-title="NEWTV",BESTV??FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226568/1.m3u8"
+
+group-title="NEWTV",BESTV??FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226569/1.m3u8"
+
+group-title="NEWTV",BESTV??FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226573/1.m3u8"
+
+group-title="NEWTV",BESTV??FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226599/1.m3u8"
+
+group-title="NEWTV",BESTV??FHD
+url= "http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226603/1.m3u8"
+
+
+
