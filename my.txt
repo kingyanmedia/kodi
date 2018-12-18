@@ -4,7 +4,7 @@ name= TV2 url= "http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000
 
 name= TV3 url= "http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8" logo= "https://images.mypadtv.com/tv3_hd.jpg"
 
-name= xAEC url= "" logo= "https://images.mypadtv.com/astro_aec.jpg" 
+name= AEC url= "http://5.79.87.234:8278/Aec/playlist.m3u8?tid=10953998&tsum=3b28edabb2e374c8bc57435a624cf9fc" logo= "https://images.mypadtv.com/astro_aec.jpg" 
 
 name= xAOD url= "http://212.8.243.195:8278/astroaod_hero/playlist.m3u8"?tid=10078645&tsum=2f030da3cce1b46d888396c32540af4e" logo= "https://images.mypadtv.com/astro_ondemand.jpg" 
 
