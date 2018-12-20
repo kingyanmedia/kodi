@@ -20,7 +20,7 @@ name= xCELESTIAL CLASSIC url= "P2p://158.69.209.29:2431/5b2e020b000b50a102752663
 
 name= CHING M url= "http://edge1.everyon.tv/etv1sb/phd783/chunklist_w2146123380.m3u8" logo= "https://images.mypadtv.com/5q-xV1o9M645p_mip4p3pg.jpg" 
 
-name= xNTV7 url= "http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live-2.m3u8" logo= "https://images.mypadtv.com/ntv7.jpg" 
+name= NTV7 url= "http://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTXVQJ2hvUHOXbnvE6GyTI8)/dm/3/x6qp6ou/live-3.m3u8" logo= "https://images.mypadtv.com/ntv7.jpg" 
 
 name= 8TV url= "http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8" logo= "https://images.mypadtv.com/8tv.jpg" 
 
