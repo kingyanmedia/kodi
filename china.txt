@@ -1,4 +1,4 @@
-﻿name= CCTV1HD url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226624/1.m3u8" logo= " "
+﻿name= CCTV1HD url= "http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8" logo= " "
 
 name= CCTV2HD url= "http://120.198.235.70/112.50.243.10/PLTV/88888888/224/3221225800/2.m3u8" logo= " "
 
@@ -12,7 +12,7 @@ name= CCTV5+ url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/32212258
 
 name= xCCTV6HD url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221226515/1.m3u8" logo= " "
 
-name= CCTV7HD url= "http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8" logo= " "
+name= CCTV7HD url= "http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8" logo= " "
 
 name= CCTV8HD url= "http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/1.m3u8" logo= " "
 
