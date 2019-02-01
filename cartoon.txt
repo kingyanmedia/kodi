@@ -1,3 +1,5 @@
+name=Miao Mi Tv url= "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8" logo= "https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png"
+
 name= CARTOON NETWORK url= "http://161.0.157.9/PLTV/88888888/224/3221226843/03.m3u8" logo= "https://images.mypadtv.com/cartoon_network.jpg" 
 
 name= DISNEY JUNIOR url= "http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8" logo= "https://images.mypadtv.com/nickelodeon.jpg" 
