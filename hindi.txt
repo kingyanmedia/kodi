@@ -7,3 +7,5 @@ name= ZEE CLASSIC url= "http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u
 name= ZEE CAFE url= "https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8" logo= "http://www.indiantelevision.com/sites/default/files/images/tv-images/2015/11/19/Untitled-1.jpg" 
 
 name= ZEE MAGIC url= "https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8" logo= "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_tv_marathi_hd.jpg" 
+
+name= ZEE WORLD url= "http://161.0.157.6/PLTV/88888888/224/3221226542/index.m3u8" logo= " "
