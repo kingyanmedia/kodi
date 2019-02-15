@@ -1,4 +1,4 @@
-name= Miao Mi Tv url= "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8" logo= "https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png"
+﻿name= Miao Mi Tv url= "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8" logo= "https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png"
 
 name= CARTOON NETWORK url= "http://161.0.157.9/PLTV/88888888/224/3221226843/03.m3u8" logo= "https://images.mypadtv.com/cartoon_network.jpg" 
 
@@ -15,3 +15,5 @@ name= xANIMAX url= "http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/135
 name= BIZNET KIDS url= "http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1763834580_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8" logo= "http://s1044.photobucket.com/albums/b447/Amachongz/BizNet4Kids%20logo_zpsvzwt4s5g.png" 
 
 name= BOOMERANG url= "http://80.87.208.158/dna-143-tv-pc/hls/1102v2333.m3u8" logo= " " 
+
+name= BABY親子臺 url= "http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8" logo= " " 
