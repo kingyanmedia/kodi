@@ -4,7 +4,7 @@ name= TV2 url= "http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000
 
 name= TV3 url= "http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8" logo= "https://images.mypadtv.com/tv3_hd.jpg"
 
-name= NTV7 url= "http://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTXVQJ2hvUHOXbnvE6GyTI8)/dm/3/x6qp6ou/live-3.m3u8" logo= "https://images.mypadtv.com/ntv7.jpg" 
+name= NTV7 url= "http://livecdn.long.tv:8123/live/9C5B434BB49141119F38AF7FDD4B6D83/playlist.m3u8" logo= "https://images.mypadtv.com/ntv7.jpg" 
 
 name= 8TV url= "http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8" logo= "https://images.mypadtv.com/8tv.jpg" 
 
